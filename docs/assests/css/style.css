@@ -1,0 +1,18 @@
+/* Custom styles */
+.hero {
+  padding: 4rem 0;
+}
+
+/* Video styling */
+video {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Download buttons */
+.btn {
+  transition: transform 0.2s;
+}
+.btn:hover {
+  transform: translateY(-2px);
+}
